@@ -21,7 +21,7 @@ export default function AboutPage() {
         <header className="text-center">
           <h1 className="text-3xl font-bold text-dark dark:text-light mb-4">About the Author</h1>
           <p className="text-lg text-dark/80 dark:text-light/80">
-            Welcome to my travel blog! I’m Nida Naz, a passionate traveler sharing my journeys, tips, and stories from around the world.
+            Welcome to my travel blog! I am Nida Naz, a passionate traveler sharing my journeys, tips, and stories from around the world.
           </p>
         </header>
 
@@ -40,7 +40,7 @@ export default function AboutPage() {
           <div className="mt-4 lg:mt-0">
             <h2 className="text-xl font-semibold text-dark dark:text-light mb-4">Meet Nida Naz</h2>
             <p className="text-lg text-dark/80 dark:text-light/80 leading-relaxed mb-4">
-              I’m Nida, a passionate wanderer, discovering hidden gems and experiencing new cultures across the globe. Through my blog, I share personal travel stories, practical tips, and helpful insights to inspire others to explore the world with an open heart and mind.
+              I am Nida, a passionate wanderer, discovering hidden gems and experiencing new cultures across the globe. Through my blog, I share personal travel stories, practical tips, and helpful insights to inspire others to explore the world with an open heart and mind.
             </p>
             <p className="text-lg text-dark/80 dark:text-light/80 leading-relaxed">
               From city escapades to serene countryside getaways, I write about every place I visit with the hope of sparking curiosity and excitement for the next adventure in you!
