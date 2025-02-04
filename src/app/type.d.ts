@@ -3,7 +3,7 @@ type Blog ={
     Paragraph: string,
     Image: any,
     slug: string,
-    block:String
+    block:string
 
 }
   
