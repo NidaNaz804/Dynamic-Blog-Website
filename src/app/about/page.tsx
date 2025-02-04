@@ -21,7 +21,7 @@ export default function AboutPage() {
         <header className="text-center">
           <h1 className="text-3xl font-bold text-dark dark:text-light mb-4">About the Author</h1>
           <p className="text-lg text-dark/80 dark:text-light/80">
-            Welcome to my travel blog! I am Nida Naz, a passionate traveler sharing my journeys, tips, and stories from around the world.
+            Welcome to my travel blog I am Nida Naz, a passionate traveler sharing my journeys, tips, and stories from around the world.
           </p>
         </header>
 
@@ -43,7 +43,7 @@ export default function AboutPage() {
               I am Nida, a passionate wanderer, discovering hidden gems and experiencing new cultures across the globe. Through my blog, I share personal travel stories, practical tips, and helpful insights to inspire others to explore the world with an open heart and mind.
             </p>
             <p className="text-lg text-dark/80 dark:text-light/80 leading-relaxed">
-              From city escapades to serene countryside getaways, I write about every place I visit with the hope of sparking curiosity and excitement for the next adventure in you!
+              From city escapades to serene countryside getaways, I write about every place I visit with the hope of sparking curiosity and excitement for the next adventure in you
             </p>
           </div>
         </div>
@@ -52,10 +52,10 @@ export default function AboutPage() {
         <div className="mt-12 bg-white dark:bg-gray-700 p-8 rounded-lg shadow-md">
           <h3 className="text-2xl font-semibold text-dark dark:text-light mb-4">The Mission of This Blog</h3>
           <p className="text-lg text-dark/80 dark:text-light/80 leading-relaxed">
-            My mission is simple: to share my love for travel and encourage you to embark on your own journey of discovery. Whether you're a solo traveler, a family, or someone who just loves to dream of new destinations, this blog is your resource for travel inspiration and tips.
+            My mission is simple to share my love for travel and encourage you to embark on your own journey of discovery. Whether you are a solo traveler, a family, or someone who just loves to dream of new destinations, this blog is your resource for travel inspiration and tips.
           </p>
           <p className="text-lg text-dark/80 dark:text-light/80 leading-relaxed mt-4">
-            I believe that travel is more than just visiting places; it's about embracing different cultures, understanding our world better, and most importantly—finding joy in every step of the journey.
+            I believe that travel is more than just visiting places it is about embracing different cultures, understanding our world better, and most importantly—finding joy in every step of the journey.
           </p>
         </div>
       </div>
