@@ -34,7 +34,7 @@ const Contact = () => {
           message: "",
         });
       }, 2000);
-    } catch (error) {
+    } catch {
       setStatus("Failed to send message.");
     }
   };
