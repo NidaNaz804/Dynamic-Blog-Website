@@ -6,10 +6,4 @@ type Blog ={
     block:String
 
 }
-
-// declare namespace JSX {
-//     interface IntrinsicElements {
-//       commentBox: any;
-//     }
-//   }
   
