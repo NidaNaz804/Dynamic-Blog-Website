@@ -1,11 +1,12 @@
 import { urlFor } from '@/sanity/lib/image';
 import Link from 'next/link'
 import React from 'react'
+import Image from 'next/image';
 
 const Hero = ({ data }: { data: Blog }) => {
   return (
     <div className="border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden shadow-lg">
-    <img
+    <Image
       className="w-full h-48 object-cover object-center"
       src={urlFor(data.Image).url()}
       alt="blog"
